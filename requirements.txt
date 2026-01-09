@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib
+scikit-learn
+pennylane
+qiskit
+qiskit-machine-learning
+qiskit-algorithms
+pylatexenc
